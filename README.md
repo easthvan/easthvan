@@ -2,4 +2,4 @@ Geeky privacy advocate, cybersec-focused modder. Building with AI tools: AI COOP
 
 ## About the code
 
-Source and downloads stay private. Some app might be published, only when it reaches the **RELEASE READY** state. The activity graph above is the live record that we are working.
+Source and downloads stay private. Some apps might be published, only when it reaches the **RELEASE READY** state. The activity graph above is the live record that we are working.
