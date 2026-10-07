@@ -1,4 +1,4 @@
-Geeky privacy advocate, cybersec-focused modder. Building: AI COOP for VSCode, NoTrail Android app, UI plugin for VSCode and more. Activity is public, releases some when READY.
+Geeky privacy advocate, cybersec-focused modder. Building with AI tools: AI COOP for VSCode, NoTrail Android app, UI plugin for VSCode and more. Activity is public, releases some when READY.
 
 ## About the code
 
