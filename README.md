@@ -2,7 +2,7 @@
 
 A selection of independent software, research and technology projects in development.
 
-### AI Coop
+### AI Coop Studio
 Exploring new ways for people and AI systems to build things together.
 
 ### AI Coop Core
